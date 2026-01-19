@@ -26,8 +26,6 @@
 - 🏠 **Homex** – Smart Home Control & Security App
 - 📝 **Notes App** – Offline note-taking app using Hive
 - ⚽ **Sport 101** – Live sports scores and updates app
-- 🏨 **Safarni** – Hotel booking and comparison app
-
 ---
 
 ## 📫 Contact Me
