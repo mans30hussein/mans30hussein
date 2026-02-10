@@ -8,7 +8,7 @@
 ## 💻 About Me
 - Flutter developer with experience building responsive mobile applications
 - Strong understanding of state management using Cubit / BLoC
-- Interested in clean architecture and scalable app development
+- Interested in clean architecture and scalable, maintainable app development
 - Always learning and improving my skills
 
 ---
